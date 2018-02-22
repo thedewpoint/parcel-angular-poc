@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"./src/app.js","dynamic":true}],"generated":{"html":"<html ng-app=\"app\">\n    <head>\n        <script src=\"/dist/be101ed9bca6c0c2ebe3408d4758158b.js\"></script>\n    </head>\n    <body ng-controller=\"homeController\">\n        <h2>{{test}}</h2>\n    </body>\n</html>"},"hash":"21d3639da95e252354f912cb69d9c010","cacheData":{}}
